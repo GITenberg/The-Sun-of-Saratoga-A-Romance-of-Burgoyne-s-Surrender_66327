@@ -1,5 +1,8 @@
 _repo: The-Sun-of-Saratoga-A-Romance-of-Burgoyne-s-Surrender_66327
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66327-h/images/cover.jpg
 creator:
   author:
     agent_name: Altsheler, Joseph A. (Joseph Alexander)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2561
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66327#The-Sun-of-Saratoga-A-Romance-of-Burgoyne-s-Surrender
 gutenberg_issued: '2021-09-17'
 identifiers:
   gutenberg: '66327'
